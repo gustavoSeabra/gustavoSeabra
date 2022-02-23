@@ -1,5 +1,5 @@
 #  Olá 👋,  eu sou o Gustavo Seabra
-- 👀 Estou interessado em desenvolvimento Full Stack
+- 👀 Estou interessado em desenvolvimento Backend e/ou Full Stack
 - 🌱 Ultimamente estudando sobre microserviços e arquiteturas
 - 💞️ Casado com a Lindona
 - 🙋 Gostaria de falar sobre DDD, TDD, Design Patterns, SOLID e MAIS!
