@@ -5,7 +5,7 @@
 - 🙋 Gostaria de falar sobre DDD, TDD, Design Patterns, SOLID e MAIS!
 - 📫 Meu contato é: gustavo.henrique.ss@gmail.com
 
-⚡ Gosto muito de 🍖Churrasco, 🧀Pão de Queijo, 🎮PS4, 🍿Filmes, ⚽ futebol, 🍺 cerveja e amigos.
+⚡ Gosto muito de 🍖Churrasco, 🧀Pão de Queijo, 🎮PS5, 🍿Filmes, ⚽ futebol, 🍺 cerveja e amigos.
 
 <!---
 gustavoSeabra/gustavoSeabra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
